@@ -1,0 +1,89 @@
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.exe
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.deps.json
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.runtimeconfig.json
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.dll
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.pdb
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.AssemblyReference.cache
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfoInputs.cache
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfo.cs
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.CoreCompileInputs.cache
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.dll
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\refint\UserLogin.dll
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.pdb
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.genruntimeconfig.cache
+D:\My space\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\ref\UserLogin.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.exe
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.deps.json
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.runtimeconfig.json
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.pdb
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.AssemblyReference.cache
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfoInputs.cache
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfo.cs
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.CoreCompileInputs.cache
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\refint\UserLogin.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.pdb
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.genruntimeconfig.cache
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\ref\UserLogin.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.dll.config
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\EntityFramework.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\System.CodeDom.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Personal\University\Computer-aided software engeneering\Semester 6\PS\Упражнения\Проект\MyProject\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.CopyComplete
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.exe
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.dll.config
+\\bgs-file02t\PersonalFolders$\BGMX00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.deps.json
+\\bgs-file02t\PersonalFolders$\BGMX00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.runtimeconfig.json
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.pdb
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\EntityFramework.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\System.CodeDom.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\System.Data.SqlClient.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.AssemblyReference.cache
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfoInputs.cache
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfo.cs
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.CoreCompileInputs.cache
+\\bgs-file02t\PersonalFolders$\BGMX00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.CopyComplete
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\refint\UserLogin.dll
+\\bgs-file02t\PersonalFolders$\bgmx00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.pdb
+\\bgs-file02t\PersonalFolders$\BGMX00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.genruntimeconfig.cache
+\\bgs-file02t\PersonalFolders$\BGMX00682222\Desktop\CS Projects\FIrst\UserLogin\UserLogin\obj\Debug\net6.0\ref\UserLogin.dll
